@@ -1,7 +1,7 @@
 {
     "Mysql_Host": "##1#",
     "Mysql_Port": 3306,
-    "Mysql_User": "######",
+    "Mysql_User": "###111111111111###",
     "Mysql_Password": "######",
     "Mysql_Db": "V2raySocks",
     "Mysql_TLS": "false",
